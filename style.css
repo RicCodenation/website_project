@@ -115,10 +115,11 @@ p6 {
 }
 
 .poster1 {
-    .text{
+    .text {
         color: red;
         position: absolute;
         overflow: auto;
+        padding-left: 10px;
     }
     .img1 {
         float: left;
@@ -128,15 +129,15 @@ p6 {
 }
 
 .poster2 {
-        .text {
+    .text {
         color: red;
-        padding-left: 835px;
+        padding-left: 839px;
         position: absolute;
         overflow: auto;
     }
     .img2 {
         float: left;
-        padding-left: 622px;
+        padding-left: 629px;
         position: absolute;
         overflow: auto;
         }  
@@ -148,6 +149,7 @@ p6 {
         color: red;
         position: absolute;
         overflow:auto;
+        padding-left: 10px;
     }
     .img3 {
         float: left;
@@ -159,13 +161,13 @@ p6 {
 .poster4 {
     .text {
         color: red;
-        padding-left: 835px;
+        padding-left: 839px;
         position: absolute;
         overflow:auto;
     }
     .img4 {
         float: left;
-        padding-left: 622px;
+        padding-left: 629px;
         position: absolute;
         overflow:auto;
         }  
@@ -177,6 +179,7 @@ p6 {
         color: red;
         position: absolute;
         overflow:auto;
+        padding-left: 10px;
     }
     .img5 {
         float: left;
@@ -188,13 +191,13 @@ p6 {
 .poster6 {
     .text {
         color: red;
-        padding-left: 835px;
+        padding-left: 840px;
         position: absolute;
         overflow:auto;
     }
     .img6 {
         float: left;
-        padding-left: 622px;
+        padding-left: 630px;
         position: absolute;
         overflow:auto;
         }  
@@ -206,6 +209,7 @@ p6 {
         color: red;
         position: absolute;
         overflow:auto;
+        padding-left: 10px;
     }
     .img7 {
         float: left;
@@ -217,13 +221,13 @@ p6 {
 .poster8 {
     .text {
         color: red;
-        padding-left: 835px;
+        padding-left: 840px;
         position: absolute;
         overflow:auto;
     }
     .img8 {
         float: left;
-        padding-left: 622px;
+        padding-left: 630px;
         position: absolute;
         overflow:auto;
         }  
@@ -235,6 +239,7 @@ p6 {
         color: red;
         position: absolute;
         overflow:auto;
+        padding-left: 10px;
     }
     .img9 {
         float: left;
@@ -246,13 +251,13 @@ p6 {
 .poster10 {
     .text {
         color: red;
-        padding-left: 835px;
+        padding-left: 839px;
         position: absolute;
         overflow:auto;
     }
     .img10 {
         float: left;
-        padding-left: 622px;
+        padding-left: 629px;
         position: absolute;
         overflow:auto;
         }  
