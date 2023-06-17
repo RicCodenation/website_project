@@ -162,6 +162,7 @@ p6 {
     .text1 { 
         color: red;
         display: inline-block;
+        position: absolute;
         overflow: auto;
         padding-left: 210px;
       }
@@ -219,6 +220,7 @@ p6 {
 
     .text1 { 
         color: red;
+        position: absolute;
         display: inline-block;
         overflow: auto;
         padding-left: 210px;
@@ -278,6 +280,7 @@ p6 {
 
     .text1 { 
         color: red;
+        position: absolute;
         display: inline-block;
         overflow: auto;
         padding-left: 210px;
@@ -337,6 +340,7 @@ p6 {
 
     .text1 { 
         color: red;
+        position: absolute;
         display: inline-block;
         overflow: auto;
         padding-left: 210px;
@@ -395,6 +399,7 @@ p6 {
 
     .text1 { 
         color: red;
+        position: absolute;
         display: inline-block;
         overflow: auto;
         padding-left: 210px;
