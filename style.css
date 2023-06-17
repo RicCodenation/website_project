@@ -114,7 +114,7 @@ p6 {
     color:white;
 }
 
-.poster1 {
+/* .poster1 {
     .text {
         color: red;
         position: absolute;
@@ -142,9 +142,38 @@ p6 {
         overflow: auto;
         }  
     
+} */
+
+.poster12 {
+
+    .text{
+        color: red;
+        display: inline-block;
+        width: 33%;
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+  .img1 {
+    float: left;
+    overflow: auto;
+    }  
+
+    .text1 { 
+        color: red;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 210px;
+      }
+
+    .img2 {
+
+        float: left;
+        position: absolute;
+        }
 }
 
-.poster3 {
+/* .poster3 {
     .text {
         color: red;
         position: absolute;
@@ -172,9 +201,38 @@ p6 {
         overflow:auto;
         }  
     
-}
+} */
 
-.poster5 {
+.poster34 {
+    .text{
+        color: red;
+        display: inline-block;
+        width: 33%;
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+  .img3 {
+    float: left;
+    overflow: auto;
+    }  
+
+    .text1 { 
+        color: red;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 210px;
+      }
+
+    .img4 {
+
+        float: left;
+        position: absolute;
+        }
+}       
+
+
+/* .poster5 {
     .text {
         color: red;
         position: absolute;
@@ -202,9 +260,38 @@ p6 {
         overflow:auto;
         }  
     
-}
+} */
 
-.poster7 {
+.poster56 {
+    .text{
+        color: red;
+        display: inline-block;
+        width: 33%;
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+  .img5 {
+    float: left;
+    overflow: auto;
+    }  
+
+    .text1 { 
+        color: red;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 210px;
+      }
+
+    .img6 {
+
+        float: left;
+        position: absolute;
+        }
+}   
+
+
+/* .poster7 {
     .text {
         color: red;
         position: absolute;
@@ -232,9 +319,37 @@ p6 {
         overflow:auto;
         }  
     
-}
+} */
 
-.poster9 {
+.poster78 {
+    .text{
+        color: red;
+        display: inline-block;
+        width: 33%;
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+  .img7 {
+    float: left;
+    overflow: auto;
+    }  
+
+    .text1 { 
+        color: red;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 210px;
+      }
+
+    .img8 {
+
+        float: left;
+        position: absolute;
+        }
+}   
+
+/* .poster9 {
     .text {
         color: red;
         position: absolute;
@@ -262,7 +377,35 @@ p6 {
         overflow:auto;
         }  
     
-}
+} */
+
+.poster910 {
+    .text{
+        color: red;
+        display: inline-block;
+        width: 33%;
+        overflow: auto;
+        padding-left: 10px;
+    }
+
+  .img9 {
+    float: left;
+    overflow: auto;
+    }  
+
+    .text1 { 
+        color: red;
+        display: inline-block;
+        overflow: auto;
+        padding-left: 210px;
+      }
+
+    .img10 {
+
+        float: left;
+        position: absolute;
+        }
+}   
 
 .video {
     text-align:center;
