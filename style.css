@@ -145,7 +145,6 @@ p6 {
 } */
 
 .poster12 {
-
     .text{
         color: red;
         display: inline-block;
@@ -162,8 +161,8 @@ p6 {
     .text1 { 
         color: red;
         display: inline-block;
-        position: absolute;
         overflow: auto;
+        position: absolute;
         padding-left: 210px;
       }
 
@@ -220,9 +219,9 @@ p6 {
 
     .text1 { 
         color: red;
-        position: absolute;
         display: inline-block;
         overflow: auto;
+        position: absolute;
         padding-left: 210px;
       }
 
@@ -280,9 +279,9 @@ p6 {
 
     .text1 { 
         color: red;
-        position: absolute;
         display: inline-block;
         overflow: auto;
+        position: absolute;
         padding-left: 210px;
       }
 
@@ -340,9 +339,9 @@ p6 {
 
     .text1 { 
         color: red;
-        position: absolute;
         display: inline-block;
         overflow: auto;
+        position: absolute;
         padding-left: 210px;
       }
 
@@ -399,9 +398,9 @@ p6 {
 
     .text1 { 
         color: red;
-        position: absolute;
         display: inline-block;
         overflow: auto;
+        position: absolute;
         padding-left: 210px;
       }
 
