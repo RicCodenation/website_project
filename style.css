@@ -170,6 +170,8 @@ p6 {
 
         float: left;
         position: absolute;
+        /* this fixed the image so that it is entirely clickable and not just the lower half */
+        z-index: 1;
         }
 }
 
@@ -229,6 +231,8 @@ p6 {
 
         float: left;
         position: absolute;
+        /* this fixed the image so that it is entirely clickable and not just the lower half */
+        z-index: 1;
         }
 }       
 
@@ -289,6 +293,8 @@ p6 {
 
         float: left;
         position: absolute;
+        /* this fixed the image so that it is entirely clickable and not just the lower half */
+        z-index: 1;
         }
 }   
 
@@ -349,6 +355,8 @@ p6 {
 
         float: left;
         position: absolute;
+        /* this fixed the image so that it is entirely clickable and not just the lower half */
+        z-index: 1;
         }
 }   
 
@@ -408,6 +416,8 @@ p6 {
 
         float: left;
         position: absolute;
+        /* this fixed the image so that it is entirely clickable and not just the lower half */
+        z-index: 1;
         }
 }   
 
