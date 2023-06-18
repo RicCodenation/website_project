@@ -130,10 +130,11 @@ p6 {
 
     .text1 { 
         color: red;
+        margin-left: 210px;
         display: inline-block;
         overflow: auto;
         position: absolute;
-        padding-left: 210px;
+        /* padding-left: 210px; */
       }
 
     .img2 {
@@ -141,7 +142,7 @@ p6 {
         float: left;
         position: absolute;
         /* this fixed the image so that it is entirely clickable and not just the lower half */
-        z-index: 1;
+        /* z-index: 1; */
         }
 }
 
@@ -161,18 +162,20 @@ p6 {
 
     .text1 { 
         color: red;
+        /* this adds a margin to the text so it doesn't overlap the image so the image is fully clickable */
+        margin-left: 210px;
         display: inline-block;
         overflow: auto;
         position: absolute;
-        padding-left: 210px;
+        /* padding-left: 210px; */
       }
 
     .img4 {
 
         float: left;
         position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half */
-        z-index: 1;
+        /* this fixed the image so that it is entirely clickable and not just the lower half,commented out as used margin-left above */
+        /* z-index: 1; */
         }
 }       
 
