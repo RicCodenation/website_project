@@ -114,163 +114,145 @@ p6 {
     color:white;
 }
 
-.poster12 {
-    .text{
-        color: red;
-        display: inline-block;
-        width: 33%;
-        overflow: auto;
-        padding-left: 10px;
-    }
+.poster1 {
+  float: left;
+  width: 45%;
 
   .img1 {
     float: left;
-    overflow: auto;
-    }  
+  }
 
-    .text1 { 
-        color: red;
-        margin-left: 210px;
-        display: inline-block;
-        overflow: auto;
-        position: absolute;
-        /* padding-left: 210px; */
-      }
-
-    .img2 {
-
-        float: left;
-        position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half */
-        /* z-index: 1; */
-        }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
 }
 
-.poster34 {
-    .text{
-        color: red;
-        display: inline-block;
-        width: 33%;
-        overflow: auto;
-        padding-left: 10px;
-    }
+.poster2 {
+  float: right;
+  width: 55%;
+
+  .img2 {
+    float: left;
+  }
+
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
+
+.poster3 {
+  float: left;
+  width: 45%;
 
   .img3 {
     float: left;
-    overflow: auto;
-    }  
+  }
 
-    .text1 { 
-        color: red;
-        /* this adds a margin to the text so it doesn't overlap the image so the image is fully clickable */
-        margin-left: 210px;
-        display: inline-block;
-        overflow: auto;
-        position: absolute;
-        /* padding-left: 210px; */
-      }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
 
-    .img4 {
+.poster4 {
+  float: right;
+  width: 55%;
 
-        float: left;
-        position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half,commented out as used margin-left above */
-        /* z-index: 1; */
-        }
-}       
+  .img4 {
+    float: left;
+  }
 
-.poster56 {
-    .text{
-        color: red;
-        display: inline-block;
-        width: 33%;
-        overflow: auto;
-        padding-left: 10px;
-    }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
+
+.poster5 {
+  float: left;
+  width: 45%;
 
   .img5 {
     float: left;
-    overflow: auto;
-    }  
+  }
 
-    .text1 { 
-        color: red;
-        display: inline-block;
-        overflow: auto;
-        position: absolute;
-        padding-left: 210px;
-      }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
 
-    .img6 {
+.poster6 {
+  float: right;
+  width: 55%;
 
-        float: left;
-        position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half */
-        z-index: 1;
-        }
-}   
+  .img6 {
+    float: left;
+  }
 
-.poster78 {
-    .text{
-        color: red;
-        display: inline-block;
-        width: 33%;
-        overflow: auto;
-        padding-left: 10px;
-    }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
+
+.poster7 {
+  float: left;
+  width: 45%;
 
   .img7 {
     float: left;
-    overflow: auto;
-    }  
+  }
 
-    .text1 { 
-        color: red;
-        display: inline-block;
-        overflow: auto;
-        position: absolute;
-        padding-left: 210px;
-      }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
 
-    .img8 {
+.poster8 {
+  float: right;
+  width: 55%;
 
-        float: left;
-        position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half */
-        z-index: 1;
-        }
-}   
+  .img8 {
+    float: left;
+  }
 
-.poster910 {
-    .text{
-        color: red;
-        display: inline-block;
-        width: 33%;
-        overflow: auto;
-        padding-left: 10px;
-    }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
+
+.poster9 {
+  float: left;
+  width: 45%;
 
   .img9 {
     float: left;
-    overflow: auto;
-    }  
+  }
 
-    .text1 { 
-        color: red;
-        display: inline-block;
-        overflow: auto;
-        position: absolute;
-        padding-left: 210px;
-      }
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
 
-    .img10 {
+.poster10 {
+  float: right;
+  width: 55%;
 
-        float: left;
-        position: absolute;
-        /* this fixed the image so that it is entirely clickable and not just the lower half */
-        z-index: 1;
-        }
-}   
+  .img10 {
+    float: left;
+  }
+
+  .text {
+    margin-left: 210px;
+    color: red;
+  }
+}
 
 .video {
     text-align:center;
